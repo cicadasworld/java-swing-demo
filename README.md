@@ -1,2 +1,2 @@
 # java-swing-demo
-Java GUI Swing programming series
+This is Java GUI Swing programming series
